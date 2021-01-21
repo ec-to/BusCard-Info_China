@@ -8,7 +8,7 @@ https://blog.csdn.net/songzp321/article/details/84896549
 ## 获取
 获取下载，可前往发行页下载 
 
-https://github.com/Cowan97/BusCard-Info_China/releases
+https://github.com/ec-to/BusCard-Info_China/releases
 
 
 ## 最后
