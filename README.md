@@ -13,3 +13,8 @@ https://github.com/Cowan97/BusCard-Info_China/releases
 
 ## 最后
 目前已被PP助手下架，仅做备份分享使用。如有冒犯issues请求删除。
+
+
+### Photo
+
+<img src="https://img-blog.csdnimg.cn/20181208185326465.jpeg" width="250px">&nbsp;&nbsp;&nbsp;<img src="https://img-blog.csdnimg.cn/20181208185326539.jpeg" width="250px">&nbsp;&nbsp;&nbsp;
