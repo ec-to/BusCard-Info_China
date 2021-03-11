@@ -12,7 +12,7 @@ https://github.com/ec-to/BusCard-Info_China/releases
 
 
 ## 最后
-目前已被PP助手下架，仅做备份分享使用。如有冒犯[issues](#issues)请求删除。
+目前已被PP助手下架，仅做备份分享使用。如有冒犯[issues](./issues)请求删除。
 
 
 ### Photo
